@@ -1,7 +1,7 @@
 {
   "version": 1,
   "enabled": true,
-  "issued": "2026-10-14T23:13:21+00:00",
+  "issued": "2026-10-14T23:17:41+00:00",
   "salt": "536649bc5c89890524d13779e08325a4",
   "encoding": "tfng-1",
   "roles": {
@@ -76,7 +76,7 @@
     },
     {
       "email": "29760a94fa5d3be8c1d7c4962a0470c82998e1527ac4ba36c2a11723e4d2c431",
-      "role": "ⴺⴻⵝⵒⵕⴵⴳⴿⵜⴽⵖⵢ",
+      "role": "ⵒⵝⴸⵅⵣⴸⵤⵀⵏⵈⵡⵂ",
       "password": {
         "salt": "30ab4407f99ef4ef5100a0d80b7555e4",
         "iterations": 300000,
@@ -111,5 +111,5 @@
       }
     }
   ],
-  "signature": "vXe1KVIjB9ho7zwYnnhUosOj8D2AtVvAEt7yU9ysUYIB+ijiM3WMPsNkbqI+HCnVVA9tjS1QlzqQFMqb8iJyCw=="
+  "signature": "vJfy1HBtmBK445qfyoAd6nLOgjsZ3gYlmenSwZjBxt+9XOiQMhbsOUnPJ4A/myEuFFKwzBFnxi5DaBH6dTmcAA=="
 }
