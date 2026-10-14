@@ -1,36 +1,37 @@
 {
   "version": 1,
   "enabled": true,
-  "issued": "2026-10-14T22:46:13+00:00",
+  "issued": "2026-10-14T22:52:36+00:00",
   "salt": "536649bc5c89890524d13779e08325a4",
+  "encoding": "tfng-1",
   "roles": {
-    "admin": {
+    "ⴺⴻⵝⵒⵕⴵⴳⴿⵜⴽⵖⵢ": {
       "groups": [
-        "*"
+        "ⵌⵔⵇⵅⵌⵐⴽⵉⵇⴶⵁⵖ"
       ]
     },
-    "configurateur": {
+    "ⵒⵝⴸⵅⵣⴸⵤⵀⵏⵈⵡⵂ": {
       "groups": [
-        "metering",
-        "contracts",
-        "admin"
+        "ⵊⵑⵙⵙⵙⵁⵚⵌⵊⵆⵔⵓ",
+        "ⵟⵑⴴⵊⵠⵖⵠⴸⴲⴸⵍⵘ",
+        "ⵕⵃⵘⵄⴳⴾⴰⵆⵁⴴⵖⵜ"
       ],
       "exclude": [
-        "users",
-        "user_creator"
+        "ⵢⴾⵋⵀⴸⵄⵎⵊⵖⵢⵔⵉ",
+        "ⵂⵞⴸⴸⴸⵌⵛⴱⴺⴹⵑⵖ"
       ]
     },
-    "energy_manager": {
+    "ⴽⴻⴷⵜⵔⵣⵞⴺⵙⵃⵣⵒ": {
       "groups": [
-        "analyses",
-        "metering"
+        "ⵠⵜⴲⵘⴴⴹⴵⵝⵎⴵⴴⵕ",
+        "ⵊⵑⵙⵙⵙⵁⵚⵌⵊⵆⵔⵓ"
       ]
     }
   },
   "users": [
     {
       "email": "274f02e7f6b7c78ac0ad1609a7f773400bdd26ebae253dd365758020a5ada327",
-      "role": "energy_manager",
+      "role": "ⴽⴻⴷⵜⵔⵣⵞⴺⵙⵃⵣⵒ",
       "password": {
         "salt": "a7c4ca4d640fcf5d050aacc3f01a283f",
         "iterations": 300000,
@@ -39,7 +40,7 @@
     },
     {
       "email": "6be964a84e940cade6dc64db2fc41e3cee13157e077e6f9205a602e1a4318537",
-      "role": "configurateur",
+      "role": "ⵒⵝⴸⵅⵣⴸⵤⵀⵏⵈⵡⵂ",
       "password": {
         "salt": "ada665346e8e0710d7674b2cfb9ff4f9",
         "iterations": 300000,
@@ -48,7 +49,7 @@
     },
     {
       "email": "cc204eccd45107acd299d734b86514214dfa35475fa569739a6f4c5fc0dc748f",
-      "role": "configurateur",
+      "role": "ⵒⵝⴸⵅⵣⴸⵤⵀⵏⵈⵡⵂ",
       "password": {
         "salt": "d695a15ae9a68d16890c12d6a617862d",
         "iterations": 300000,
@@ -57,7 +58,7 @@
     },
     {
       "email": "067fe58919d84eb1bad180b75e8c685a3faf9b899a35b59a5705f4aec922d947",
-      "role": "energy_manager",
+      "role": "ⴽⴻⴷⵜⵔⵣⵞⴺⵙⵃⵣⵒ",
       "password": {
         "salt": "f18b5ac518f743ae181641326ede1338",
         "iterations": 300000,
@@ -66,7 +67,7 @@
     },
     {
       "email": "29760a94fa5d3be8c1d7c4962a0470c82998e1527ac4ba36c2a11723e4d2c431",
-      "role": "admin",
+      "role": "ⴺⴻⵝⵒⵕⴵⴳⴿⵜⴽⵖⵢ",
       "password": {
         "salt": "30ab4407f99ef4ef5100a0d80b7555e4",
         "iterations": 300000,
@@ -75,7 +76,7 @@
     },
     {
       "email": "f56cda49a7e8c12562c7a5d603bb5a5ab94299befd0f4e27c095ee4d60a1d009",
-      "role": "configurateur",
+      "role": "ⵒⵝⴸⵅⵣⴸⵤⵀⵏⵈⵡⵂ",
       "password": {
         "salt": "4d39e26c64d80058d11acec0f85d56f2",
         "iterations": 300000,
@@ -84,7 +85,7 @@
     },
     {
       "email": "2918ba63d41a44aa1cfc523e7dd54ebdca7d4dd40ceaa94d10d6c3cf0b3d4678",
-      "role": "configurateur",
+      "role": "ⵒⵝⴸⵅⵣⴸⵤⵀⵏⵈⵡⵂ",
       "password": {
         "salt": "fe35237ff9972de49309c4ae4b245e07",
         "iterations": 300000,
@@ -93,7 +94,7 @@
     },
     {
       "email": "09a305c3e19588ea82a9ccecb9969ef36968e6ac83396b3af7936cb271362c71",
-      "role": "configurateur",
+      "role": "ⵒⵝⴸⵅⵣⴸⵤⵀⵏⵈⵡⵂ",
       "password": {
         "salt": "39878e0f8a8741393f4b4ad689c20652",
         "iterations": 300000,
@@ -101,5 +102,5 @@
       }
     }
   ],
-  "signature": "wVVq9EEFo23yaWhxmosABE0adeLMsVQY8CXJCf/8yaWi2JgElq6GoXJAKxF74Ml1meOCFnHstjJd5Mj1/q0gDg=="
+  "signature": "uZRttjQgP9EBq/cslIZrEPQrgJxQNSGkcR0NOb1cIQrkRqw4F9RIn/lfnjN0bKs41DmLmL0dWHETP0tUwpWHDQ=="
 }
