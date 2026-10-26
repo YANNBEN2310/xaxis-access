@@ -1,7 +1,7 @@
 {
   "version": 1,
   "enabled": true,
-  "issued": "2026-10-14T23:24:44+00:00",
+  "issued": "2026-10-26T11:08:36+00:00",
   "salt": "536649bc5c89890524d13779e08325a4",
   "encoding": "tfng-1",
   "roles": {
@@ -33,8 +33,11 @@
     },
     "ⴽⴻⴷⵜⵔⵣⵞⴺⵙⵃⵣⵒ": {
       "groups": [
-        "ⵠⵜⴲⵘⴴⴹⴵⵝⵎⴵⴴⵕ",
-        "ⵊⵑⵙⵙⵙⵁⵚⵌⵊⵆⵔⵓ"
+        "ⵌⵔⵇⵅⵌⵐⴽⵉⵇⴶⵁⵖ"
+      ],
+      "exclude": [
+        "ⵢⴾⵋⵀⴸⵄⵎⵊⵖⵢⵔⵉ",
+        "ⵂⵞⴸⴸⴸⵌⵛⴱⴺⴹⵑⵖ"
       ]
     }
   },
@@ -55,6 +58,15 @@
         "salt": "ada665346e8e0710d7674b2cfb9ff4f9",
         "iterations": 300000,
         "hash": "250b855e1000d7c4b160202b67fba8653a35a33c13c9f7bc74f1a4a00195ccb0"
+      }
+    },
+    {
+      "email": "3c87e1a45a06a7c3199201ab866c3714276f4432a52ec30d824485a3346402b8",
+      "role": "ⴽⴻⴷⵜⵔⵣⵞⴺⵙⵃⵣⵒ",
+      "password": {
+        "salt": "3c733910366e18d9bac15bb2c79e3b9d",
+        "iterations": 300000,
+        "hash": "7b830c7c4ee74373f99ee4aa613100c6f5d4806e1a3a4979b47563c12ced9b0a"
       }
     },
     {
@@ -112,5 +124,5 @@
       }
     }
   ],
-  "signature": "KT6j7mZdoMXxQ/BPW/JfcJLfXibxnMVWAKQ9dq55Rrx/V5J7hsYPBnOiSavFs6pvoQwDI5cEyMzKYebxnBD1BA=="
+  "signature": "1abk4xBnstbhMyi+ZmehfoOVaVBQxOf+XixW+EBWkEc++fxRvSDr9FazPp55MbfqI64oK8uJfhJgYx0y/JGpCQ=="
 }
