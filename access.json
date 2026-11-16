@@ -1,7 +1,7 @@
 {
   "version": 1,
   "enabled": true,
-  "issued": "2026-11-05T14:57:17+00:00",
+  "issued": "2026-11-16T10:20:50+00:00",
   "salt": "536649bc5c89890524d13779e08325a4",
   "encoding": "tfng-1",
   "roles": {
@@ -69,13 +69,15 @@
         "ⵑⴶⵂⵔⵆⴼⵣⵍⴰⵓⵆⵠ",
         "ⴲⵗⵃⴴⵟⵅⵣⵐⵇⵂⵘⵤ",
         "ⵤⵃⵉⴽⵉⵒⴵⵇⴾⵓⵢⵏ",
+        "ⵓⵤⵚⵜⵢⵄⵎⴽⵍⵊⵓⵙ",
         "ⵟⵉⵐⴳⴿⵛⵕⵖⵟⵃⵊⵥ",
         "ⵤⴶⵆⴸⵝⵢⵣⴲⵋⴱⴹⴽ",
         "ⵒⵈⵋⵝⵛⵎⴺⴾⴲⵇⵟⵄ",
         "ⴱⵟⴰⵠⵀⵕⵏⴸⴱⵏⵣⵓ",
         "ⵂⵞⴸⴸⴸⵌⵛⴱⴺⴹⵑⵖ",
         "ⵢⴾⵋⵀⴸⵄⵎⵊⵖⵢⵔⵉ"
-      ]
+      ],
+      "rev": 1794824450
     },
     {
       "email": "6be964a84e940cade6dc64db2fc41e3cee13157e077e6f9205a602e1a4318537",
@@ -150,5 +152,5 @@
       }
     }
   ],
-  "signature": "M/vSu9decIAsdZ9dOYqHe0nAL5n5+7eEuzzlqUpiy90hosSSNWATxodpP6NMyaftM5zqKlsgnHRf+Vj6pIL/DQ=="
+  "signature": "X8ipXx49LWc0fr1/tZLZNantc8fFSrM+BMopax6FolgtYQ2xTast1y5Cq5ai0zwM4C5Xg8cx81G3peMmiYPPDA=="
 }
