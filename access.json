@@ -1,7 +1,7 @@
 {
   "version": 1,
   "enabled": true,
-  "issued": "2026-11-16T10:20:50+00:00",
+  "issued": "2026-11-16T10:22:06+00:00",
   "salt": "536649bc5c89890524d13779e08325a4",
   "encoding": "tfng-1",
   "roles": {
@@ -113,7 +113,11 @@
         "salt": "f18b5ac518f743ae181641326ede1338",
         "iterations": 300000,
         "hash": "eb7305e5987b837528297a0799d6ab99ec44ddcc1bed01f2b3a249e1360ed893"
-      }
+      },
+      "exclude": [
+        "ⵓⵤⵚⵜⵢⵄⵎⴽⵍⵊⵓⵙ"
+      ],
+      "rev": 1794824526
     },
     {
       "email": "29760a94fa5d3be8c1d7c4962a0470c82998e1527ac4ba36c2a11723e4d2c431",
@@ -152,5 +156,5 @@
       }
     }
   ],
-  "signature": "X8ipXx49LWc0fr1/tZLZNantc8fFSrM+BMopax6FolgtYQ2xTast1y5Cq5ai0zwM4C5Xg8cx81G3peMmiYPPDA=="
+  "signature": "nOmKx+bTjo9Ar2gufZldSg7Vrli4HfUPYOlb3b1B9993l2Eh45XMXTVxV9cRWnt3waifqN2X1m7KEJkG7Nx8Dw=="
 }
