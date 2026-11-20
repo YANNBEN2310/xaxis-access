@@ -1,7 +1,7 @@
 {
   "version": 1,
   "enabled": true,
-  "issued": "2026-11-16T10:22:06+00:00",
+  "issued": "2026-11-20T14:58:53+00:00",
   "salt": "536649bc5c89890524d13779e08325a4",
   "encoding": "tfng-1",
   "roles": {
@@ -49,6 +49,23 @@
         "iterations": 300000,
         "hash": "21261fb5cde4883bb3362d43e030650fb4883397a5b18149c0dd5786261fd5ee"
       }
+    },
+    {
+      "email": "2e799dec10f037ec67fd47e4b7451f75166f63a1653427ab4dcabb8182dae8dc",
+      "role": "ⴽⴻⴷⵜⵔⵣⵞⴺⵙⵃⵣⵒ",
+      "password": {
+        "salt": "4595480236ede3364c1c275a24d9ab17",
+        "iterations": 300000,
+        "hash": "39d03f6cd99533179fc3127f512828081bb5a254f4b7e090c11b16aa0c2720c9"
+      },
+      "exclude": [
+        "ⴺⴷⵗⵞⵎⴼⴷⵥⵃⵕⵠⵊ",
+        "ⵘⵀⵌⴺⵒⵅⵑⴲⵞⴷⴹⵏ",
+        "ⵃⴴⵄⵗⴱⵥⵌⵔⴸⵗⵤⵗ",
+        "ⵠⵟⴽⵥⵅⵒⴱⴵⵁⴽⵤⵤ",
+        "ⴹⴷⵐⴼⵡⵐⵃⵃⴽⴺⵐⵔ"
+      ],
+      "rev": 1795186733
     },
     {
       "email": "ba593ebba40546aa2fabccf57085472e87052aa8392df545900762592b30005a",
@@ -156,5 +173,5 @@
       }
     }
   ],
-  "signature": "nOmKx+bTjo9Ar2gufZldSg7Vrli4HfUPYOlb3b1B9993l2Eh45XMXTVxV9cRWnt3waifqN2X1m7KEJkG7Nx8Dw=="
+  "signature": "Vy5R8kSOAZzhJbwppcYnd8s0+9QOqQXvJHU/WgTO/wMCdSZNWFsBVjdaWD8HurGWno/LbV4D2d0qjAXkBKCUBw=="
 }
